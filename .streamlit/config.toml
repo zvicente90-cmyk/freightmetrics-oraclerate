@@ -1,0 +1,15 @@
+[server]
+# Permite conexiones desde cualquier IP
+address = "0.0.0.0"
+port = 8501
+
+# Configuraciones de seguridad
+enableCORS = true
+enableXsrfProtection = true
+
+# Configuraciones de UI
+maxUploadSize = 200
+
+[browser]
+# No abrir automáticamente el navegador
+gatherUsageStats = false

@@ -1,0 +1,158 @@
+{
+  "tarifas": [
+    {
+      "mes": "2026-02",
+      "tabla": [
+        {
+          "Región": "Querétaro",
+          "Origen": "Querétaro",
+          "Destino": "Nuevo Laredo",
+          "Nodo": "Nuevo Laredo",
+          "Distancia_km": 815,
+          "Equipo": "Caja Seca 53'",
+          "Tarifa_MXN": 26551
+        },
+        {
+          "Región": "Bajío (Gto)",
+          "Origen": "Silao",
+          "Destino": "Nuevo Laredo",
+          "Nodo": "Nuevo Laredo",
+          "Distancia_km": 845,
+          "Equipo": "Full (Doble)",
+          "Tarifa_MXN": 43196
+        },
+        {
+          "Región": "Chihuahua",
+          "Origen": "Chihuahua",
+          "Destino": "El Paso / Juárez",
+          "Nodo": "El Paso / Juárez",
+          "Distancia_km": 375,
+          "Equipo": "Sencillo 48'",
+          "Tarifa_MXN": 12217
+        },
+        {
+          "Región": "Baja Cali",
+          "Origen": "Tijuana",
+          "Destino": "Otay Mesa",
+          "Nodo": "Otay Mesa",
+          "Distancia_km": 25,
+          "Equipo": "Sencillo 53'",
+          "Tarifa_MXN": 814
+        },
+        {
+          "Región": "Jalisco",
+          "Origen": "Guadalajara",
+          "Destino": "Nogales",
+          "Nodo": "Nogales",
+          "Distancia_km": 1735,
+          "Equipo": "Refrigerado",
+          "Tarifa_MXN": 71085
+        },
+        {
+          "Región": "Edomex",
+          "Origen": "San Martín Obispo",
+          "Destino": "Nuevo Laredo",
+          "Nodo": "Nuevo Laredo",
+          "Distancia_km": 1080,
+          "Equipo": "Caja Seca 53'",
+          "Tarifa_MXN": 35170
+        },
+        {
+          "Región": "Nuevo León",
+          "Origen": "Monterrey",
+          "Destino": "Colombia / NL",
+          "Nodo": "Colombia / NL",
+          "Distancia_km": 215,
+          "Equipo": "Full (Doble)",
+          "Tarifa_MXN": 10994
+        },
+        {
+          "Región": "San Luis Potosí",
+          "Origen": "San Luis Potosí",
+          "Destino": "Nuevo Laredo",
+          "Nodo": "Nuevo Laredo",
+          "Distancia_km": 620,
+          "Equipo": "Caja Seca 53'",
+          "Tarifa_MXN": 20196
+        }
+      ]
+    },
+    {
+      "mes": "2026-03",
+      "tabla": [
+        {
+          "Región": "Querétaro",
+          "Origen": "Querétaro",
+          "Destino": "Nuevo Laredo",
+          "Nodo": "Nuevo Laredo",
+          "Distancia_km": 815,
+          "Equipo": "Caja Seca 53'",
+          "Tarifa_MXN": 27987
+        },
+        {
+          "Región": "Bajío (Gto)",
+          "Origen": "Silao",
+          "Destino": "Nuevo Laredo",
+          "Nodo": "Nuevo Laredo",
+          "Distancia_km": 845,
+          "Equipo": "Full (Doble)",
+          "Tarifa_MXN": 45571
+        },
+        {
+          "Región": "Chihuahua",
+          "Origen": "Chihuahua",
+          "Destino": "El Paso / Juárez",
+          "Nodo": "El Paso / Juárez",
+          "Distancia_km": 375,
+          "Equipo": "Sencillo 48'",
+          "Tarifa_MXN": 12878
+        },
+        {
+          "Región": "Baja Cali",
+          "Origen": "Tijuana",
+          "Destino": "Otay Mesa",
+          "Nodo": "Otay Mesa",
+          "Distancia_km": 25,
+          "Equipo": "Sencillo 53'",
+          "Tarifa_MXN": 859
+        },
+        {
+          "Región": "Jalisco",
+          "Origen": "Guadalajara",
+          "Destino": "Nogales",
+          "Nodo": "Nogales",
+          "Distancia_km": 1735,
+          "Equipo": "Refrigerado",
+          "Tarifa_MXN": 74935
+        },
+        {
+          "Región": "Edomex",
+          "Origen": "San Martín Obispo",
+          "Destino": "Nuevo Laredo",
+          "Nodo": "Nuevo Laredo",
+          "Distancia_km": 1080,
+          "Equipo": "Caja Seca 53'",
+          "Tarifa_MXN": 37087
+        },
+        {
+          "Región": "Nuevo León",
+          "Origen": "Monterrey",
+          "Destino": "Colombia / NL",
+          "Nodo": "Colombia / NL",
+          "Distancia_km": 215,
+          "Equipo": "Full (Doble)",
+          "Tarifa_MXN": 11595
+        },
+        {
+          "Región": "San Luis Potosí",
+          "Origen": "San Luis Potosí",
+          "Destino": "Nuevo Laredo",
+          "Nodo": "Nuevo Laredo",
+          "Distancia_km": 620,
+          "Equipo": "Caja Seca 53'",
+          "Tarifa_MXN": 21291
+        }
+      ]
+    }
+  ]
+}

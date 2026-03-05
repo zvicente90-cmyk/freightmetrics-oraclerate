@@ -1,0 +1,21 @@
+credentials:
+  usernames:
+    user1:
+      email: user1@email.com
+      name: Usuario Uno
+      password: '$2b$12$examplehashedpassword1'
+      plan: free
+    user2:
+      email: user2@email.com
+      name: Usuario Dos
+      password: 'Jupiter$2536$mx'
+      plan: pro
+    user3:
+      email: user3@email.com
+      name: Usuario Tres
+      password: '$2b$12$examplehashedpassword3'
+      plan: enterprise
+cookie:
+  name: 'freightmetrics_auth'
+  key: 'some_secret_key'
+  expiry_days: 7

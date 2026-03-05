@@ -1,0 +1,599 @@
+{
+  "fecha_actualizacion": "2026-03-04",
+  "fuente": "FreightMetrics - Tabla Oficial de Costos por Componente Mar 2026",
+  "matriz": {
+    "2026": {
+      "Ene": {
+        "Norte": [
+          {
+            "Componente": "Consumo Diésel ($/km)",
+            "Caja Seca (Dry Van)": 10.45,
+            "Plataforma (Flatbed)": 11.05,
+            "Refrigerado (Reefer)": 13.85,
+            "Full (Doble)": 15.20
+          },
+          {
+            "Componente": "Inflación Sectorial (8.6%)",
+            "Caja Seca (Dry Van)": 2.25,
+            "Plataforma (Flatbed)": 2.55,
+            "Refrigerado (Reefer)": 2.85,
+            "Full (Doble)": 3.45
+          },
+          {
+            "Componente": "Casetas (Ejes/Ruta)",
+            "Caja Seca (Dry Van)": 4.60,
+            "Plataforma (Flatbed)": 4.60,
+            "Refrigerado (Reefer)": 4.60,
+            "Full (Doble)": 8.55
+          },
+          {
+            "Componente": "Sueldo y Viáticos",
+            "Caja Seca (Dry Van)": 4.05,
+            "Plataforma (Flatbed)": 4.55,
+            "Refrigerado (Reefer)": 4.65,
+            "Full (Doble)": 6.05
+          },
+          {
+            "Componente": "Riesgo de Ruta / Seguro",
+            "Caja Seca (Dry Van)": 1.85,
+            "Plataforma (Flatbed)": 2.90,
+            "Refrigerado (Reefer)": 3.05,
+            "Full (Doble)": 2.60
+          },
+          {
+            "Componente": "Manto. y Accesorios",
+            "Caja Seca (Dry Van)": 2.85,
+            "Plataforma (Flatbed)": 3.40,
+            "Refrigerado (Reefer)": 3.60,
+            "Full (Doble)": 4.85
+          },
+          {
+            "Componente": "COSTO OPERATIVO (CPK)",
+            "Caja Seca (Dry Van)": 26.05,
+            "Plataforma (Flatbed)": 29.05,
+            "Refrigerado (Reefer)": 32.60,
+            "Full (Doble)": 40.70
+          },
+          {
+            "Componente": "Utilidad Sug. (18%)",
+            "Caja Seca (Dry Van)": 4.69,
+            "Plataforma (Flatbed)": 5.23,
+            "Refrigerado (Reefer)": 5.87,
+            "Full (Doble)": 7.33
+          },
+          {
+            "Componente": "TARIFA SPOT FINAL",
+            "Caja Seca (Dry Van)": 30.74,
+            "Plataforma (Flatbed)": 34.28,
+            "Refrigerado (Reefer)": 38.47,
+            "Full (Doble)": 48.03
+          }
+        ],
+        "Centro": [
+          {
+            "Componente": "Consumo Diésel ($/km)",
+            "Caja Seca (Dry Van)": 11.15,
+            "Plataforma (Flatbed)": 11.85,
+            "Refrigerado (Reefer)": 14.90,
+            "Full (Doble)": 16.35
+          },
+          {
+            "Componente": "Inflación Sectorial (8.6%)",
+            "Caja Seca (Dry Van)": 2.35,
+            "Plataforma (Flatbed)": 2.75,
+            "Refrigerado (Reefer)": 3.0,
+            "Full (Doble)": 3.70
+          },
+          {
+            "Componente": "Casetas (Ejes/Ruta)",
+            "Caja Seca (Dry Van)": 5.30,
+            "Plataforma (Flatbed)": 5.30,
+            "Refrigerado (Reefer)": 5.30,
+            "Full (Doble)": 9.63
+          },
+          {
+            "Componente": "Sueldo y Viáticos",
+            "Caja Seca (Dry Van)": 4.43,
+            "Plataforma (Flatbed)": 5.0,
+            "Refrigerado (Reefer)": 5.10,
+            "Full (Doble)": 6.68
+          },
+          {
+            "Componente": "Riesgo de Ruta / Seguro",
+            "Caja Seca (Dry Van)": 2.15,
+            "Plataforma (Flatbed)": 3.30,
+            "Refrigerado (Reefer)": 3.50,
+            "Full (Doble)": 3.03
+          },
+          {
+            "Componente": "Manto. y Accesorios",
+            "Caja Seca (Dry Van)": 3.15,
+            "Plataforma (Flatbed)": 3.80,
+            "Refrigerado (Reefer)": 4.0,
+            "Full (Doble)": 5.40
+          },
+          {
+            "Componente": "COSTO OPERATIVO (CPK)",
+            "Caja Seca (Dry Van)": 28.53,
+            "Plataforma (Flatbed)": 32.0,
+            "Refrigerado (Reefer)": 35.80,
+            "Full (Doble)": 44.79
+          },
+          {
+            "Componente": "Utilidad Sug. (18%)",
+            "Caja Seca (Dry Van)": 5.14,
+            "Plataforma (Flatbed)": 5.76,
+            "Refrigerado (Reefer)": 6.44,
+            "Full (Doble)": 8.06
+          },
+          {
+            "Componente": "TARIFA SPOT FINAL",
+            "Caja Seca (Dry Van)": 33.67,
+            "Plataforma (Flatbed)": 37.76,
+            "Refrigerado (Reefer)": 42.24,
+            "Full (Doble)": 52.00
+          }
+        ],
+        "Sur": [
+          {
+            "Componente": "Consumo Diésel ($/km)",
+            "Caja Seca (Dry Van)": 11.35,
+            "Plataforma (Flatbed)": 12.40,
+            "Refrigerado (Reefer)": 15.75,
+            "Full (Doble)": 17.40
+          },
+          {
+            "Componente": "Inflación Sectorial (8.6%)",
+            "Caja Seca (Dry Van)": 2.43,
+            "Plataforma (Flatbed)": 2.85,
+            "Refrigerado (Reefer)": 3.15,
+            "Full (Doble)": 3.88
+          },
+          {
+            "Componente": "Casetas (Ejes/Ruta)",
+            "Caja Seca (Dry Van)": 5.85,
+            "Plataforma (Flatbed)": 5.85,
+            "Refrigerado (Reefer)": 5.85,
+            "Full (Doble)": 10.60
+          },
+          {
+            "Componente": "Sueldo y Viáticos",
+            "Caja Seca (Dry Van)": 4.65,
+            "Plataforma (Flatbed)": 5.25,
+            "Refrigerado (Reefer)": 5.40,
+            "Full (Doble)": 7.05
+          },
+          {
+            "Componente": "Riesgo de Ruta / Seguro",
+            "Caja Seca (Dry Van)": 2.40,
+            "Plataforma (Flatbed)": 3.65,
+            "Refrigerado (Reefer)": 3.85,
+            "Full (Doble)": 3.45
+          },
+          {
+            "Componente": "Manto. y Accesorios",
+            "Caja Seca (Dry Van)": 3.33,
+            "Plataforma (Flatbed)": 4.05,
+            "Refrigerado (Reefer¸)": 4.25,
+            "Full (Doble)": 5.75
+          },
+          {
+            "Componente": "COSTO OPERATIVO (CPK)",
+            "Caja Seca (Dry Van)": 30.01,
+            "Plataforma (Flatbed)": 34.05,
+            "Refrigerado (Reefer)": 38.25,
+            "Full (Doble)": 48.13
+          },
+          {
+            "Componente": "Utilidad Sug. (18%)",
+            "Caja Seca (Dry Van)": 5.40,
+            "Plataforma (Flatbed)": 6.13,
+            "Refrigerado (Reefer)": 6.89,
+            "Full (Doble)": 8.66
+          },
+          {
+            "Componente": "TARIFA SPOT FINAL",
+            "Caja Seca (Dry Van)": 35.41,
+            "Plataforma (Flatbed)": 40.18,
+            "Refrigerado (Reefer)": 45.14,
+            "Full (Doble)": 56.00
+          }
+        ]
+      },
+      "Feb": {
+        "Norte": [
+          {
+            "Componente": "Consumo Diésel ($/km)",
+            "Caja Seca (Dry Van)": 10.65,
+            "Plataforma (Flatbed)": 11.30,
+            "Refrigerado (Reefer)": 14.25,
+            "Full (Doble)": 15.65
+          },
+          {
+            "Componente": "Inflación Sectorial (8.6%)",
+            "Caja Seca (Dry Van)": 2.28,
+            "Plataforma (Flatbed)": 2.65,
+            "Refrigerado (Reefer)": 2.90,
+            "Full (Doble)": 3.55
+          },
+          {
+            "Componente": "Casetas (Ejes/Ruta)",
+            "Caja Seca (Dry Van)": 5.05,
+            "Plataforma (Flatbed)": 5.05,
+            "Refrigerado (Reefer)": 5.05,
+            "Full (Doble)": 9.15
+          },
+          {
+            "Componente": "Sueldo y Viáticos",
+            "Caja Seca (Dry Van)": 4.35,
+            "Plataforma (Flatbed)": 4.90,
+            "Refrigerado (Reefer)": 5.0,
+            "Full (Doble)": 6.50
+          },
+          {
+            "Componente": "Riesgo de Ruta / Seguro",
+            "Caja Seca (Dry Van)": 2.05,
+            "Plataforma (Flatbed)": 3.20,
+            "Refrigerado (Reefer)": 3.35,
+            "Full (Doble)": 2.90
+          },
+          {
+            "Componente": "Manto. y Accesorios",
+            "Caja Seca (Dry Van)": 3.08,
+            "Plataforma (Flatbed)": 3.73,
+            "Refrigerado (Reefer)": 3.93,
+            "Full (Doble)": 5.30
+          },
+          {
+            "Componente": "COSTO OPERATIVO (CPK)",
+            "Caja Seca (Dry Van)": 27.46,
+            "Plataforma (Flatbed)": 30.83,
+            "Refrigerado (Reefer)": 34.48,
+            "Full (Doble)": 43.05
+          },
+          {
+            "Componente": "Utilidad Sug. (18%)",
+            "Caja Seca (Dry Van)": 4.94,
+            "Plataforma (Flatbed)": 5.55,
+            "Refrigerado (Reefer)": 6.21,
+            "Full (Doble)": 7.75
+          },
+          {
+            "Componente": "TARIFA SPOT FINAL",
+            "Caja Seca (Dry Van)": 32.40,
+            "Plataforma (Flatbed)": 36.38,
+            "Refrigerado (Reefer)": 40.69,
+            "Full (Doble)": 50.80
+          }
+        ],
+        "Centro": [
+          {
+            "Componente": "Consumo Diésel ($/km)",
+            "Caja Seca (Dry Van)": 10.98,
+            "Plataforma (Flatbed)": 11.65,
+            "Refrigerado (Reefer)": 14.65,
+            "Full (Doble)": 16.10
+          },
+          {
+            "Componente": "Inflación Sectorial (8.6%)",
+            "Caja Seca (Dry Van)": 2.33,
+            "Plataforma (Flatbed)": 2.73,
+            "Refrigerado (Reefer)": 2.98,
+            "Full (Doble)": 3.68
+          },
+          {
+            "Componente": "Casetas (Ejes/Ruta)",
+            "Caja Seca (Dry Van)": 5.28,
+            "Plataforma (Flatbed)": 5.28,
+            "Refrigerado (Reefer)": 5.28,
+            "Full (Doble)": 9.58
+          },
+          {
+            "Componente": "Sueldo y Viáticos",
+            "Caja Seca (Dry Van)": 4.40,
+            "Plataforma (Flatbed)": 4.98,
+            "Refrigerado (Reefer)": 5.08,
+            "Full (Doble)": 6.63
+          },
+          {
+            "Componente": "Riesgo de Ruta / Seguro",
+            "Caja Seca (Dry Van)": 2.13,
+            "Plataforma (Flatbed)": 3.28,
+            "Refrigerado (Reefer)": 3.48,
+            "Full (Doble)": 3.00
+          },
+          {
+            "Componente": "Manto. y Accesorios",
+            "Caja Seca (Dry Van)": 3.13,
+            "Plataforma (Flatbed)": 3.78,
+            "Refrigerado (Reefer)": 3.98,
+            "Full (Doble)": 5.38
+          },
+          {
+            "Componente": "COSTO OPERATIVO (CPK)",
+            "Caja Seca (Dry Van)": 28.25,
+            "Plataforma (Flatbed)": 31.70,
+            "Refrigerado (Reefer)": 35.45,
+            "Full (Doble)": 44.37
+          },
+          {
+            "Componente": "Utilidad Sug. (18%)",
+            "Caja Seca (Dry Van)": 5.09,
+            "Plataforma (Flatbed)": 5.71,
+            "Refrigerado (Reefer)": 6.38,
+            "Full (Doble)": 7.99
+          },
+          {
+            "Componente": "TARIFA SPOT FINAL",
+            "Caja Seca (Dry Van)": 33.34,
+            "Plataforma (Flatbed)": 37.41,
+            "Refrigerado (Reefer)": 41.83,
+            "Full (Doble)": 53.10
+          }
+        ],
+        "Sur": [
+          {
+            "Componente": "Consumo Diésel ($/km)",
+            "Caja Seca (Dry Van)": 11.15,
+            "Plataforma (Flatbed)": 12.20,
+            "Refrigerado (Reefer)": 15.50,
+            "Full (Doble)": 17.15
+          },
+          {
+            "Componente": "Inflación Sectorial (8.6%)",
+            "Caja Seca (Dry Van)": 2.40,
+            "Plataforma (Flatbed)": 2.83,
+            "Refrigerado (Reefer)": 3.13,
+            "Full (Doble)": 3.85
+          },
+          {
+            "Componente": "Casetas (Ejes/Ruta)",
+            "Caja Seca (Dry Van)": 5.75,
+            "Plataforma (Flatbed)": 5.75,
+            "Refrigerado (Reefer)": 5.75,
+            "Full (Doble)": 10.43
+          },
+          {
+            "Componente": "Sueldo y Viáticos",
+            "Caja Seca (Dry Van)": 4.58,
+            "Plataforma (Flatbed)": 5.18,
+            "Refrigerado (Reefer)": 5.33,
+            "Full (Doble)": 6.95
+          },
+          {
+            "Componente": "Riesgo de Ruta / Seguro",
+            "Caja Seca (Dry Van)": 2.33,
+            "Plataforma (Flatbed)": 3.53,
+            "Refrigerado (Reefer)": 3.75,
+            "Full (Doble)": 3.35
+          },
+          {
+            "Componente": "Manto. y Accesorios",
+            "Caja Seca (Dry Van)": 3.28,
+            "Plataforma (Flatbed)": 3.98,
+            "Refrigerado (Reefer)": 4.18,
+            "Full (Doble)": 5.65
+          },
+          {
+            "Componente": "COSTO OPERATIVO (CPK)",
+            "Caja Seca (Dry Van)": 29.49,
+            "Plataforma (Flatbed)": 33.47,
+            "Refrigerado (Reefer)": 37.64,
+            "Full (Doble)": 47.38
+          },
+          {
+            "Componente": "Utilidad Sug. (18%)",
+            "Caja Seca (Dry Van)": 5.31,
+            "Plataforma (Flatbed)": 6.02,
+            "Refrigerado (Reefer)": 6.78,
+            "Full (Doble)": 8.53
+          },
+          {
+            "Componente": "TARIFA SPOT FINAL",
+            "Caja Seca (Dry Van)": 34.80,
+            "Plataforma (Flatbed)": 39.49,
+            "Refrigerado (Reefer)": 44.42,
+            "Full (Doble)": 57.50
+          }
+        ]
+      },
+      "Mar": {
+        "Norte": [
+          {
+            "Componente": "Consumo Diésel ($/km)",
+            "Caja Seca (Dry Van)": 10.80,
+            "Plataforma (Flatbed)": 11.45,
+            "Refrigerado (Reefer)": 14.35,
+            "Full (Doble)": 15.75
+          },
+          {
+            "Componente": "Inflación Sectorial (8.6%)",
+            "Caja Seca (Dry Van)": 2.30,
+            "Plataforma (Flatbed)": 2.65,
+            "Refrigerado (Reefer)": 2.95,
+            "Full (Doble)": 3.60
+          },
+          {
+            "Componente": "Casetas (Ejes/Ruta)",
+            "Caja Seca (Dry Van)": 4.80,
+            "Plataforma (Flatbed)": 4.80,
+            "Refrigerado (Reefer)": 4.80,
+            "Full (Doble)": 8.90
+          },
+          {
+            "Componente": "Sueldo y Viáticos",
+            "Caja Seca (Dry Van)": 4.20,
+            "Plataforma (Flatbed)": 4.75,
+            "Refrigerado (Reefer)": 4.85,
+            "Full (Doble)": 6.30
+          },
+          {
+            "Componente": "Riesgo de Ruta / Seguro",
+            "Caja Seca (Dry Van)": 1.95,
+            "Plataforma (Flatbed)": 3.05,
+            "Refrigerado (Reefer)": 3.20,
+            "Full (Doble)": 2.75
+          },
+          {
+            "Componente": "Manto. y Accesorios",
+            "Caja Seca (Dry Van)": 2.95,
+            "Plataforma (Flatbed)": 3.55,
+            "Refrigerado (Reefer)": 3.75,
+            "Full (Doble)": 5.05
+          },
+          {
+            "Componente": "COSTO OPERATIVO (CPK)",
+            "Caja Seca (Dry Van)": 28.15,
+            "Plataforma (Flatbed)": 31.55,
+            "Refrigerado (Reefer)": 35.35,
+            "Full (Doble)": 44.12
+          },
+          {
+            "Componente": "Utilidad Sug. (18%)",
+            "Caja Seca (Dry Van)": 5.07,
+            "Plataforma (Flatbed)": 5.68,
+            "Refrigerado (Reefer)": 6.36,
+            "Full (Doble)": 7.94
+          },
+          {
+            "Componente": "TARIFA SPOT FINAL",
+            "Caja Seca (Dry Van)": 33.22,
+            "Plataforma (Flatbed)": 37.23,
+            "Refrigerado (Reefer)": 41.71,
+            "Full (Doble)": 52.06
+          }
+        ],
+        "Centro": [
+          {
+            "Componente": "Consumo Diésel ($/km)",
+            "Caja Seca (Dry Van)": 11.40,
+            "Plataforma (Flatbed)": 12.10,
+            "Refrigerado (Reefer)": 15.20,
+            "Full (Doble)": 16.70
+          },
+          {
+            "Componente": "Inflación Sectorial (8.6%)",
+            "Caja Seca (Dry Van)": 2.40,
+            "Plataforma (Flatbed)": 2.80,
+            "Refrigerado (Reefer)": 3.10,
+            "Full (Doble)": 3.80
+          },
+          {
+            "Componente": "Casetas (Ejes/Ruta)",
+            "Caja Seca (Dry Van)": 5.40,
+            "Plataforma (Flatbed)": 5.40,
+            "Refrigerado (Reefer)": 5.40,
+            "Full (Doble)": 9.80
+          },
+          {
+            "Componente": "Sueldo y Viáticos",
+            "Caja Seca (Dry Van)": 4.50,
+            "Plataforma (Flatbed)": 5.10,
+            "Refrigerado (Reefer)": 5.20,
+            "Full (Doble)": 6.80
+          },
+          {
+            "Componente": "Riesgo de Ruta / Seguro",
+            "Caja Seca (Dry Van)": 2.20,
+            "Plataforma (Flatbed)": 3.40,
+            "Refrigerado (Reefer)": 3.60,
+            "Full (Doble)": 3.10
+          },
+          {
+            "Componente": "Manto. y Accesorios",
+            "Caja Seca (Dry Van)": 3.20,
+            "Plataforma (Flatbed)": 3.90,
+            "Refrigerado (Reefer)": 4.10,
+            "Full (Doble)": 5.50
+          },
+          {
+            "Componente": "COSTO OPERATIVO (CPK)",
+            "Caja Seca (Dry Van)": 29.10,
+            "Plataforma (Flatbed)": 32.70,
+            "Refrigerado (Reefer)": 36.60,
+            "Full (Doble)": 45.70
+          },
+          {
+            "Componente": "Utilidad Sug. (18%)",
+            "Caja Seca (Dry Van)": 5.24,
+            "Plataforma (Flatbed)": 5.88,
+            "Refrigerado (Reefer)": 6.59,
+            "Full (Doble)": 8.23
+          },
+          {
+            "Componente": "TARIFA SPOT FINAL",
+            "Caja Seca (Dry Van)": 34.34,
+            "Plataforma (Flatbed)": 38.58,
+            "Refrigerado (Reefer)": 43.19,
+            "Full (Doble)": 53.93
+          }
+        ],
+        "Sur": [
+          {
+            "Componente": "Consumo Diésel ($/km)",
+            "Caja Seca (Dry Van)": 12.15,
+            "Plataforma (Flatbed)": 12.85,
+            "Refrigerado (Reefer)": 16.15,
+            "Full (Doble)": 17.75
+          },
+          {
+            "Componente": "Inflación Sectorial (8.6%)",
+            "Caja Seca (Dry Van)": 2.55,
+            "Plataforma (Flatbed)": 2.95,
+            "Refrigerado (Reefer)": 3.30,
+            "Full (Doble)": 4.05
+          },
+          {
+            "Componente": "Casetas (Ejes/Ruta)",
+            "Caja Seca (Dry Van)": 6.20,
+            "Plataforma (Flatbed)": 6.20,
+            "Refrigerado (Reefer)": 6.20,
+            "Full (Doble)": 11.25
+          },
+          {
+            "Componente": "Sueldo y Viáticos",
+            "Caja Seca (Dry Van)": 4.85,
+            "Plataforma (Flatbed)": 5.50,
+            "Refrigerado (Reefer)": 5.60,
+            "Full (Doble)": 7.35
+          },
+          {
+            "Componente": "Riesgo de Ruta / Seguro",
+            "Caja Seca (Dry Van)": 2.50,
+            "Plataforma (Flatbed)": 3.85,
+            "Refrigerado (Reefer)": 4.10,
+            "Full (Doble)": 3.55
+          },
+          {
+            "Componente": "Manto. y Accesorios",
+            "Caja Seca (Dry Van)": 3.55,
+            "Plataforma (Flatbed)": 4.30,
+            "Refrigerado (Reefer)": 4.55,
+            "Full (Doble)": 6.15
+          },
+          {
+            "Componente": "COSTO OPERATIVO (CPK)",
+            "Caja Seca (Dry Van)": 31.80,
+            "Plataforma (Flatbed)": 35.65,
+            "Refrigerado (Reefer)": 39.90,
+            "Full (Doble)": 50.10
+          },
+          {
+            "Componente": "Utilidad Sug. (18%)",
+            "Caja Seca (Dry Van)": 5.72,
+            "Plataforma (Flatbed)": 6.42,
+            "Refrigerado (Reefer)": 7.18,
+            "Full (Doble)": 9.02
+          },
+          {
+            "Componente": "TARIFA SPOT FINAL",
+            "Caja Seca (Dry Van)": 37.52,
+            "Plataforma (Flatbed)": 42.07,
+            "Refrigerado (Reefer)": 47.08,
+            "Full (Doble)": 59.12
+          }
+        ]
+      }
+    }
+  }
+}
