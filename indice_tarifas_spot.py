@@ -1,4 +1,4 @@
-﻿import streamlit as st
+import streamlit as st
 import pandas as pd
 from pdf_generator import dataframe_to_pdf
 
@@ -17,8 +17,8 @@ def main():
     # ])
     # st.dataframe(estructura_indice, width='stretch', hide_index=True)
 
-    st.markdown("### Tendencia de Mercado")
-    st.caption("Análisis de Tarifas Spot FreightMetrics México - Basado en Diésel CRE 26.401 MXN/L.")
+    st.markdown("### Tendencia de Tarifas Spot Freightmetrics Mexico")
+    st.caption("Basado en Diésel a $26.25 MXN/L y Datos de Inflación/Riesgo.")
     import json, os
     matriz_file = os.path.join(os.path.dirname(__file__), "matriz_comparativa_mx.json")
     try:
